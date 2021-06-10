@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("Roboto-Bold.ttf") format("truetype"), url("Roboto-Bold.woff2") format("woff2"), url("Roboto-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Roboto-Regular"; font-family: "Roboto-Regular";
+    src: url("Roboto-Regular.ttf") format("truetype"), url("Roboto-Regular.woff2") format("woff2"), url("Roboto-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Futura-Bold";
+    src: url("Futura-Bold.ttf") format("truetype"), url("Futura-Bold.woff2") format("woff2"), url("Futura-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Futura-Medium";
+    src: url("Futura-Medium.ttf") format("truetype"), url("Futura-Medium.woff2") format("woff2"), url("Futura-Medium.woff") format("woff");
+}
